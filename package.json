@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andres Higuita",
-	"description": "A project where FCC exercises are solved",
+  "description": "A project where FCC exercises are solved",
+  "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+  "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,3 +17,4 @@
 		"url": "https://idontknow/todo.git"
 	}
 }
+
