@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andres Higuita",
+	"description": "A project where FCC exercises are solved",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
